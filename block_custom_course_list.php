@@ -15,10 +15,10 @@
 // along with Moodle.  If not, see <http://www.gnu.org/licenses/>.
 
 /**
- * Course list block.
+ * Custom course list block.
  *
  * @package    block_custom_course_list
- * @copyright  1999 onwards Martin Dougiamas (http://dougiamas.com)
+ * @copyright  2019 Giulio Gatto
  * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 
