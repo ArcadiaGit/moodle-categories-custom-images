@@ -6,18 +6,18 @@
     margin-bottom: .3em;
     display: inline-block;
     padding: 5px;
-	margin: 5px;
+    margin: 5px;
 }
 .immagini-categorie{
-	max-width:250px;
-	margin:0 auto;
+    max-width:250px;
+    margin:0 auto;
 }
 ul.unlist .collapsed{
-	text-align: center;
+    text-align: center;
 }
 ul.unlist .collapsed a{
-	margin:10px;
+    margin:10px;
 }
 ul.unlist li{
-	display: inline-block;
+    display: inline-block;
 }
